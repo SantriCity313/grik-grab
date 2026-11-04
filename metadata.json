@@ -1,0 +1,6 @@
+{
+  "name": "GRIK - Gerakan Rakyat Islamicity Kaffah",
+  "description": "Platform infrastruktur cerdas terintegrasi untuk dakwah digital, pemberdayaan ekonomi umat, transparansi donasi, pelatihan bisnis mikro, komunikasi terenkripsi, dan analitik real-time.",
+  "requestFramePermissions": ["camera", "notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

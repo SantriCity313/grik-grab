@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@layer base {
+  body {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+  }
+  .font-arabic {
+    font-family: 'Amiri', serif;
+  }
+}
